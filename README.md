@@ -37,9 +37,6 @@ You can download the Power BI file and related documents directly from the repos
 - [Download Power BI Project File](https://github.com/danartech/Power-BI-Project/blob/main/Power%20BI%20Project.pbix)
 - [Download Power BI Project PDF](https://github.com/danartech/Power-BI-Project/blob/main/Power%20BI%20Project.pdf)
 
-## Additional Resources
-- [YouTube Tutorial: Full Power BI Guided Project](https://www.youtube.com/watch?v=pixlHHe_lNQ): A tutorial series that guided the creation of this project.
-
 ## Contact Me
 - **Email**: [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
 - **LinkedIn**: [Dana Robinson](https://www.linkedin.com/in/dana-robinson-acct)
